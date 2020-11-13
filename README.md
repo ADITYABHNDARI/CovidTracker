@@ -1,4 +1,6 @@
 # CovidTracker
+![GitHub top language](https://img.shields.io/github/languages/top/ADITYABHNDARI/CovidTracker?color=yellow&logo=Python&logoColor=yellow&style=plastic)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/covid?logo=Python&logoColor=yellow&style=plastic)
 
 ## Installation
 
