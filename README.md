@@ -1,6 +1,7 @@
 # CovidTracker
 ![GitHub top language](https://img.shields.io/github/languages/top/ADITYABHNDARI/CovidTracker?color=yellow&logo=Python&logoColor=yellow&style=plastic)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/covid?logo=Python&logoColor=yellow&style=plastic)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://paypal.me/iAdityaBhandari/311)&nbsp;
 
 ## Installation
 
